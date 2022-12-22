@@ -1,7 +1,7 @@
 {
-  "name": "vue3-popper",
+  "name": "@ja1984/vue3-popper",
   "type": "module",
-  "version": "1.4.2",
+  "version": "1.4.3",
   "author": {
     "name": "Valgeir Björnsson",
     "email": "valgeir@hey.com",
